@@ -94,7 +94,8 @@ body {
   }
   .animation-basic div {
     animation: loading 1.2s ease infinite;
-    transform-origin: 40px 40px;
+    transform-origin: 30px 30px;
+    /* transform-origin thay đổi tâm,điểm tựa */
   }
   .animation-basic div:after {
     content: " ";
